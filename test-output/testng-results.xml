@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8099" started-at="2020-05-31T18:19:42Z" finished-at="2020-05-31T18:19:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8099" started-at="2020-05-31T18:19:42Z" finished-at="2020-05-31T18:19:50Z">
+      <class name="sample1example.JavaProject">
+        <test-method status="PASS" signature="lofign()[pri:0, instance:sample1example.JavaProject@965684]" name="lofign" duration-ms="8056" started-at="2020-05-31T18:19:42Z" finished-at="2020-05-31T18:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lofign -->
+      </class> <!-- sample1example.JavaProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
